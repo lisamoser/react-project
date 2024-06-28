@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
         <h1>Weather App</h1>
-        <Weather />
+        <Weather defaultCity="New York" />
         <footer>
           This project was coded by Lisa Moser and it is open-sourced on{" "}
           <a href="https://github.com/lisamoser/react-project" target="_blank">
