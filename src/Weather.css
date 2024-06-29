@@ -18,8 +18,7 @@
 .Weather li {
   font-size: 16px;
   font-weight: 100;
-  line-height: 19.2px;
-  text-align: left;
+  line-height: 19px;
   list-style: none;
 }
 .Weather img {
@@ -33,11 +32,14 @@
   color: rgb(33, 33, 33);
   font-size: 64px;
   font-weight: 400;
+  line-height: 64px;
+  margin-left: 10px;
 }
 .Weather .unit {
   font-size: 16px;
   color: rgb(33, 33, 33);
   font-weight: 400;
   position: relative;
+  line-height: 1;
   top: -34px;
 }
